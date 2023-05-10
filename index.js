@@ -1,0 +1,1 @@
+documentElement = document.documentElement;
